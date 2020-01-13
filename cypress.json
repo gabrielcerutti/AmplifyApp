@@ -1,0 +1,6 @@
+{
+    "env": {
+        "my-var": "development"
+      },
+    "baseUrl": "http://localhost:3000"
+}

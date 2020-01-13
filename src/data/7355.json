@@ -1,0 +1,70 @@
+{
+    "title" : "Lehrgang Geprüfte/r bAV-Experte/in",
+    "secondTitle": "Fachzertifizierung in der betrieblichen Altersversorgung",
+    "description": "Die betriebliche Altersversorgung stellt die Personalabteilung und insbesondere die Entgeltabrechner vor große Herausforderungen. Sowohl die korrekte Umsetzung in der Entgeltabrechnungspraxis als auch die richtige Kommunikation mit Externen wie z. B. Maklern und Versicherungen erfordert ein fundiertes fachübergreifendes Wissen. Der Lehrgang Geprüfte/r bAV-Experte/in vermittelt Ihnen die nötige Kompetenz im Umgang mit der bAV für die Praxis. Darüber hinaus dokumentieren Sie nach bestandener Prüfung durch das qualifizierte Zertifikat (Haufe Akademie) Ihr fachliches Know-how und festigen Ihre berufliche Karriere.",
+    "obligationTraining": [
+      {
+        "id" : 1,
+        "title" : "Vorabfragebogen",
+        "teaser" : "Basiswissen für die Assistenz",
+        "image" : "http://d8wr4j82ogzfw.cloudfront.net/elearningconcept.jpg",
+        "tooltip" : "Wir hätten da einige Fragen vorab"
+      },
+      {
+        "id" : 2,
+        "title" : "Update Datensicherheit im Office",
+        "teaser" : "Präsenzseminar - Umgang mit Cookies, Phising & Co.",
+        "image" : "http://d8wr4j82ogzfw.cloudfront.net/pexels_man_laptop.jpg",
+        "tooltip" : "Kommen Sie zu uns. Hier werden Sie geholfen;-)"
+      },
+      {
+        "id" : 3,
+        "title" : "e-Learning",
+        "teaser" : "Datenschutztraining",
+        "image" : "http://d8wr4j82ogzfw.cloudfront.net/illustration-of-human-hand-working.jpg",
+        "tooltip" : "Das ist der Tooltip"
+      },
+      {
+        "id" : 4,
+        "title" : "Online Kurs",
+        "teaser" : "Hier steht dann der beschreibende Text",
+        "image" : "http://d8wr4j82ogzfw.cloudfront.net/online-courses.jpg",
+        "tooltip" : "Das ist der Tooltip"
+      },
+      {
+        "id" : 5,
+        "title" : "Everskill",
+        "teaser" : "Hier steht dann der beschreibende Text",
+        "image" : "http://d8wr4j82ogzfw.cloudfront.net/everskill.jpg",
+        "tooltip" : "Das ist der Absprung zu Everskill"
+      },
+      {
+        "id" : 6,
+        "title" : "E-Learning 6",
+        "teaser" : "Hier steht dann der beschreibende Text",
+        "image" : "http://d8wr4j82ogzfw.cloudfront.net/elearningconcept.jpg",
+        "tooltip" : "Das ist der Tooltip"
+      }
+        
+    ],
+    "OptionalTrainings" : {
+      "MaxSelection": 1,
+      "Description": "Sie können aus der unten stehenden Liste ein Wahlseminar belegen. Nur EINS! Auch wenn Sie mehrere anklicken können! NUR EINS! Sonst wirds teuer!",
+      "Trainings": [
+        {
+          "id" : 1,
+          "title" : "Update Datensicherheit im Office",
+          "teaser" : "Präsenzseminar - Umgang mit Cookies, Phising & Co.",
+          "image" : "http://d8wr4j82ogzfw.cloudfront.net/pexels_man_laptop.jpg",
+          "tooltip" : "Kommen Sie zu uns. Hier werden Sie geholfen;-)"
+        },
+        {
+          "id" : 2,
+          "title" : "e-Learning",
+          "teaser" : "Datenschutztraining",
+          "image" : "http://d8wr4j82ogzfw.cloudfront.net/illustration-of-human-hand-working.jpg",
+          "tooltip" : "Das ist der Tooltip"
+        }
+      ]
+    }
+  }

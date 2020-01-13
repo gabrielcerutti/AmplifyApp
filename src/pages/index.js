@@ -1,0 +1,10 @@
+export { default as Home } from './Home';
+export { default as Trainingcourse } from './Trainingcourse';
+export { default as Login } from './Login';
+export { default as NotFound } from './NotFound';
+export { default as Layout } from './Layout';
+export { default as Landingpage } from './Landingpage';
+export { default as Coursedetails } from './Coursedetails';
+export { default as TrainingCourseDetails } from './TrainingCourseDetails';
+export { default as Dashboard } from './dashboard';
+export { default as CongressDetails } from './CongressDetails';
