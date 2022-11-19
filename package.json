@@ -17,7 +17,7 @@
     "react-render-html": "^0.6.0",
     "react-router-dom": "^5.1.2",
     "react-router-guards": "^1.0.1",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "wix-style-react": "^7.16.1"
   },
   "scripts": {
@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
-    "@storybook/react": "^5.2.6",
+    "@storybook/react": "^6.5.13",
     "babel-loader": "^8.0.6",
     "cypress": "^3.7.0",
     "jest": "^24.9.0",
